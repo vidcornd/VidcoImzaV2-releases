@@ -1,6 +1,6 @@
-============================================================
+=========
   Vidco e-İmza v2.0.0 — Kurulum Kılavuzu
-============================================================
+=========
 
 Desteklenen platformlar:
   - Windows 10 (1809 ve üzeri), Windows 11
@@ -9,14 +9,13 @@ Desteklenen platformlar:
 
 NOT: Windows 7, 8 ve 8.1 desteklenmemektedir.
 
-
-============================================================
+=========
   WINDOWS
-============================================================
+=========
 
-------------------------------------------------------------
+---------
 ADIM 1: Akıllı Kart Sürücüsü Kurulumu
-------------------------------------------------------------
+---------
 Uygulama aşağıdaki sürücüleri otomatik olarak tanır.
 Bunlardan yalnızca birini kurmanız yeterlidir:
 
@@ -35,9 +34,9 @@ Bunlardan yalnızca birini kurmanız yeterlidir:
 Sağlayıcınızın yazılımı zaten kuruluysa bu adımı atlayabilirsiniz.
 
 
-------------------------------------------------------------
+---------
 ADIM 2: Vidco e-İmza Kurulumu
-------------------------------------------------------------
+---------
 Java kurulumuna gerek yoktur — uygulama her şeyi içinde barındırır.
 
 1. "VidcoImza-2.0.0.exe" dosyasını çalıştırın.
@@ -48,9 +47,9 @@ Java kurulumuna gerek yoktur — uygulama her şeyi içinde barındırır.
    "VidcoImza" kısayoluna çift tıklayarak uygulamayı açın.
 
 
-------------------------------------------------------------
+---------
 ADIM 3: Kullanım (Windows)
-------------------------------------------------------------
+---------
 1. Kart okuyucunuzu bilgisayara takın.
 
 2. E-imza kartınızı kart okuyucuya yerleştirin.
@@ -63,13 +62,13 @@ ADIM 3: Kullanım (Windows)
    e) "İMZALA" butonuna tıklayın.
 
 
-============================================================
+=========
   MACOS
-============================================================
+=========
 
-------------------------------------------------------------
+---------
 ADIM 1: Akıllı Kart Sürücüsü Kurulumu
-------------------------------------------------------------
+---------
 Uygulama aşağıdaki sürücüleri otomatik olarak tanır.
 Bunlardan yalnızca birini kurmanız yeterlidir:
 
@@ -88,9 +87,9 @@ Bunlardan yalnızca birini kurmanız yeterlidir:
 Sağlayıcınızın yazılımı zaten kuruluysa bu adımı atlayabilirsiniz.
 
 
-------------------------------------------------------------
+---------
 ADIM 2: Java Kurulumu
-------------------------------------------------------------
+---------
 macOS sürümü için Temurin Java 21 (x64) gereklidir.
 
 1. Aşağıdaki adresi tarayıcınızda açın:
@@ -104,9 +103,9 @@ NOT: Apple Silicon (M1/M2/M3) kullanıyorsanız yine de
      x64 sürümünü indirin — uygulama Rosetta ile çalışır.
 
 
-------------------------------------------------------------
+---------
 ADIM 3: Vidco e-İmza Kurulumu
-------------------------------------------------------------
+---------
 1. "VidcoImza-mac-2.0.0.zip" dosyasını indirin.
 
 2. Zip dosyasını açın — iki dosya çıkacak:
@@ -121,9 +120,9 @@ ADIM 3: Vidco e-İmza Kurulumu
    → Sistem Ayarları > Gizlilik ve Güvenlik > "Yine de Aç"
 
 
-------------------------------------------------------------
+---------
 ADIM 4: Kullanım (macOS)
-------------------------------------------------------------
+---------
 1. Kart okuyucunuzu bilgisayara takın.
 
 2. E-imza kartınızı kart okuyucuya yerleştirin.
@@ -136,9 +135,9 @@ ADIM 4: Kullanım (macOS)
    e) "İMZALA" butonuna tıklayın.
 
 
-============================================================
+=========
   GÜNCELLEME
-============================================================
+=========
 Yeni bir sürüm mevcut olduğunda uygulama açılışında otomatik
 olarak bildirim gösterir. "Güncelle" seçeneğine tıklamanız
 yeterlidir — güncelleme otomatik uygulanır.
@@ -147,9 +146,9 @@ Windows ve macOS için güncelleme ayrı ayrı çalışır,
 ek bir işlem yapmanıza gerek yoktur.
 
 
-============================================================
+=========
   SIKÇA KARŞILAŞILAN SORUNLAR
-============================================================
+=========
 
 SORUN : Kart okuyucu listede görünmüyor
 ÇÖZÜM : OpenSC'nin kurulu olduğundan emin olun (Adım 1).
